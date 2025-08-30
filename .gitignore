@@ -1,0 +1,31 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Flyway
+flyway.conf.local
+.flyway/
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
